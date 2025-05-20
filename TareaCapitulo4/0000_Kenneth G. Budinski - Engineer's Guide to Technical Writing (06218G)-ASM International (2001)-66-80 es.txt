@@ -1,0 +1,748 @@
+Suscríbete a DeepL Pro para poder traducir archivos de mayor tamaño.
+Más información disponible en www.DeepL.com/pro.
+
+Guía del ingeniero para la redacción técnica
+Kenneth G. Budinski, p55-69
+DOI:10.1361/egtw2001p055
+
+CAPÍTULO
+
+Copyright© 2001 ASM International
+Todos los derechos
+reservados.
+www.asminternational.org
+
+4
+Estrategia de
+redacción
+OBJETIVOS DEL CAPÍTULO
+
+1. Comprender cómo desarrollar una estrategia de escritura
+2. Comprender la importancia de dirigir sus escritos técnicos a
+3.
+4.
+
+personas o grupos específicos.
+Comprender cómo seleccionar los lectores adecuados
+Comprender cómo escribir para un público determinado
+
+COMO EN LA MAYORÍA DE LOS PROYECTOS, la redacción de un documento
+técnico debe comenzar con el desarrollo de una estrategia de redacción, tal y como se
+muestra en la Fig. 4.1. Para ello es necesario definir tres elementos básicos:
+
+•
+•
+•
+
+Los lectores (el quién) de un documento
+El alcance (el qué) de un documento
+La finalidad y los objetivos (el porqué) de un documento
+
+Definir el público destinatario significa simplemente identificar a la persona, personas
+u organización a la que se quiere llegar con el escrito técnico. El alcance de un
+documento viene definido por los límites de lo que debe tratarse. a escribir sobre todas
+las punzonadoras o sólo sobre la que se ha pasado los últimos cuatro meses rediseñando?
+El propósito y el objetivo del informe incluyen la intención y una descripción de por qué
+se ha realizado el trabajo. En la mayoría de los casos, hay que tomar decisiones
+concurrentes a la hora de definir los tres elementos de una tarea de redacción.
+El propósito de este capítulo es describir los factores que deben tenerse en cuenta a la
+hora de pensar en una estrategia de redacción. Estos factores incluyen un análisis de los
+lectores, la comprensión del alcance, el propósito y el objetivo de un documento, y cómo
+escribir para un tipo concreto de lector. Estas cuestiones deben resolverse antes de escribir.
+Es su plan. La elaboración meditada de una estrategia de redacción facilitará el trabajo y
+mejorará el producto. La estrategia es
+
+56 / Guía del ingeniero para la redacción técnica
+
+Fig. 4.1 Elementos de la estrategia de escritura
+importante para cualquier documento técnico, pero es aún más crítica para los
+documentos de gran tamaño. Incluso los autores experimentados de libros técnicos
+pueden beneficiarse de una planificación cuidadosa de la estrategia de redacción.
+
+4.1 Análisis de los lectores
+El análisis de los lectores es tan importante para la redacción de informes como un
+plan de juego lo es para un partido de fútbol. Debe decidir cuáles son sus intenciones al
+escribir. ¿Con quién quiere comunicarse? ¿Qué nivel de redacción es el adecuado? El
+análisis de la audiencia comprende todos estos factores en cualquier forma de escritura,
+pero es más importante dar a la audiencia un tratamiento especial en la escritura técnica
+que en otras formas de escritura. Escribir por encima (o muy por debajo) de la
+comprensión del lector puede producir un resultado negativo, contrario a las intenciones
+del escritor. Los informes técnicos suelen requerir la actuación de otras personas. Si el
+informe se redacta a un nivel equivocado o si se envía a las personas equivocadas, puede
+que no tenga el efecto deseado. Preste especial atención a esta fase de la planificación
+del informe. He aquí algunos puntos que conviene recordar:
+
+•
+•
+•
+•
+•
+
+Los lectores son su público objetivo.
+La intención de su informe determina el número de lectores.
+Los lectores seleccionados determinan el nivel de redacción.
+El nivel de redacción debe ser tal que se entienda y sea útil para todos los lectores.
+La selección de una lista de difusión (sus lectores) debe respetar la jerarquía de la
+organización; incluya colaboradores, patrocinadores y usuarios potenciales de su
+trabajo/recomendaciones.
+
+Estrategia de redacción
+57
+
+Importancia del lector
+En el capítulo anterior se enumeraban varias razones por las que los técnicos deben
+incluir la documentación escrita como parte esencial de su trabajo. Algunas de las
+razones más destacadas para escribir se analizaron en el Capítulo anterior.
+
+•
+•
+•
+•
+•
+
+Análisis de un proceso/sistema, etc.
+Conservación de la información
+Intercambio de información
+Promover el cambio
+Documentación del trabajo
+
+Todas estas razones para escribir se centran en un público determinado. Los siguientes
+ejemplos ilustran la importancia de los lectores para obtener resultados de la escritura
+técnica. Sólo determinados lectores pueden poner en práctica sus recomendaciones. Sólo
+determinados lectores están interesados en su trabajo. Enviar un trabajo a alguien que no
+está interesado puede tener un efecto negativo en su atención. Por otro lado, los lectores
+interesados pueden promover lo que usted haya escrito. Por tanto, los lectores son muy
+importantes y deben formar parte esencial de su estrategia de documentación técnica.
+Análisis de un proceso. Un ejemplo de documento de análisis podría ser un informe
+relativo al análisis de la eficacia de una cadena de montaje de cámaras de un solo uso. La
+línea no producía tantas cámaras buenas como decían sus diseñadores. Usted estudió la
+línea y determinó que había tres estaciones de trabajo problemáticas que producían la
+mayor parte del tiempo de inactividad. Si recomienda rediseñar estas estaciones, es muy
+importante que las recomendaciones a los lectores adecuados. No basta con enviar el
+informe al jefe. Parte de su estrategia de redacción debe consistir en identificar a los
+lectores que pueden aprobar y financiar las recomendaciones. Conservación de la
+información. Usted ha realizado un complicado estudio sobre el mecanismo de la pérdida
+de plata en las bombas de emulsión. Este problema lleva afectando al departamento de
+manipulación de emulsiones. Ha descubierto la causa y el remedio. Si quiere que este
+importante descubrimiento se conserve y comparta, identifique a los lectores que lo
+difundirán entre las personas que compran, utilizan y reparan bombas, así como entre los
+formuladores de emulsiones, para que puedan diseñar el agente quelante que usted
+descubrió que catalizaba el plateout. Por último, procure archivar el documento para que
+las generaciones futuras sepan cómo tratar este problema. Los lectores que elija
+determinarán si la plateGracias a su se eliminarán todos los problemas.
+Intercambio de información. En un trabajo de consultoría, usted se enteró de que
+los agarrotamientos de los mecanismos de bobinado de los carretes de película se debían a un
+cambio de proveedor de cojinetes lisos de bronce poroso. El departamento de compras
+cambió de proveedor [ para abaratar costes] y no se molestó en avisar al departamento
+de diseño. En su estudio, determinó que las tolerancias de los cojinetes del nuevo proveedor
+son tales que una fracción significativa de estos cojinetes [se utilizan cientos de ellos]
+acabará con una quinta parte del funcionamiento recomendado.
+
+58 / Guía del ingeniero para la redacción técnica
+
+holgura. Estos distribuidores se utilizan en todo el mundo. Es necesario identificar lectores
+en todo el mundo para retirar los rodamientos de la marca B, sustituirlos por los de la marca
+A y asegurarse de que el departamento de compras compra sólo la marca A para estas
+unidades en el futuro. Esta será una tarea de selección de lectores desalentadora.
+embargo, si no llega a todos los lectores adecuados, se producirán más fallos [a 30.000
+dólares cada uno]. Promover el cambio. Ha visitado un laboratorio externo y se ha
+enterado de que sus empleados miden la velocidad de corrosión de los metales sumergidos
+en soluciones analizando la solución en busca de elementos disueltos con espectroscopia de
+emisión atómica de plasma acoplado inductivamente. El laboratorio puede analizar sesenta
+elementos en el rango de partes por millón en menos de cinco minutos. Tres laboratorios
+de su empresa realizan este tipo de pruebas, pero miden los índices de corrosión por
+cambio de masa tras inmersiones prolongadas. Este nuevo sistema podría reducir el
+tiempo de ensayo de 30 a 3 días con mayor precisión y menor coste. Tiene que redactar un
+documento para los lectores que pueda cambiar la forma de realizar los ensayos de corrosión.
+También hay que .
+Documentación del trabajo. Ha completado un estudio de seis meses sobre
+plásticos para latas de películas. Las latas actuales se desgastan cuando los pesados rollos de
+película se agitan en ellas. Las partículas de desgaste pueden contaminar la película. Ha
+realizado pruebas de laboratorio exhaustivas con 15 plásticos diferentes y ha mandado
+moldear prototipos de latas a partir de cinco candidatos. También se realizaron vibración
+a tamaño real. Ha encontrado un plástico que resolverá el problema del desgaste y tiene
+montones de datos acumulados de las distintas pruebas. Ahora quiere ordenar los datos en
+bruto y destilarlos en un documento que recomiende la aplicación del plástico ganador.
+Los lectores adecuados pueden hacer realidad sus recomendaciones, y usted habrá
+documentado sus resultados de forma que puedan ser archivados y utilizados por otros.
+REGLA
+Los lectores son importantes. Selecciona los adecuados y .
+
+Selección de lectores
+¿Cómo se selecciona el público lector de un documento? Las publicaciones
+comerciales, al igual que las nuevas revistas, invierten grandes sumas de dinero e
+importantes esfuerzos en definir el público objetivo de una nueva revista. [Hace poco me
+convertí en lector de una nueva revista que surgió a raíz de un programa televisivo de
+reparaciones domésticas. La publicidad de la revista indica claramente que los lectores
+a los que va dirigida son locos por las herramientas y aspirantes a carpinteros. Tienen
+páginas centrales sobre tipos de clavos. Es una revista bastante cara, y los productos
+anunciados son en su mayoría caros]. Está claro que el público al que va dirigida es de
+clase alta; esta revista es para gente con ingresos superiores a la media. Probablemente
+diseñaron la revista para el lector que:
+
+•
+•
+
+Es hombre
+Tiene una renta superior a la media de EE.UU.
+
+Estrategia de redacción
+59
+
+•
+•
+•
+•
+•
+•
+
+Le encantan las herramientas
+Le encanta trabajar con las manos
+Le encanta la carpintería
+Le gusta aprender cosas nuevas
+Es propietario de una vivienda
+Construir como hobby (no como profesión)
+
+La gente que compila la revista tiene artículos escritos para este perfil de lector. Han
+establecido su intención (ganar dinero), y los lectores son aquellas personas que se
+ajustan al perfil de lector. Los artículos están escritos al nivel de un carpintero novato.
+Dado que el nivel de lectura determina el nivel de redacción, decida el nivel de lectura
+tan pronto como decida sus intenciones. Los lectores de un documento técnico deben
+incluir a todas las personas que puedan beneficiarse del contenido del documento, a las
+personas que hayan colaborado en el trabajo y a los directivos que deseen estar al
+corriente de lo que se está haciendo. Un informe del viaje debe enviarse a todos los que
+necesiten saber lo que ha observado y las conclusiones del viaje. Un informe de
+laboratorio debe dirigirse al departamento que solicita el trabajo y a la dirección
+correspondiente. Un informe sobre un problema debe tener como lectores a la parte que
+presentó el problema, a la dirección y a los responsables de aplicar la solución del
+problema.
+Es aconsejable no enviar informes a personas por motivos políticos o enviar informes
+a personas a las que no les interesen o estén poco implicadas. Además, en los negocios y
+la industria existe una jerarquía para los informes. En algunas organizaciones es
+inapropiado enviar informes a personas por encima de su supervisor inmediato sin su
+aprobación.
+Lo recomendable es elaborar una lista de lectores para cada tipo de informe que deba
+redactar en su puesto. Si es diseñador gráfico, la lista puede incluir:
+
+•
+•
+•
+•
+•
+
+Su supervisor inmediato
+El secretario de su departamento (para archivar)
+Los otros tres diseñadores que trabajan en proyectos similares
+Su contacto con el cliente
+El taller que construye sus máquinas
+
+Haz listas de lectura para tus informes y acláralas con tu supervisor. Parecerá que está
+bien organizado y que actúa de acuerdo con su supervisor. Su trabajo de redacción será
+más fácil porque no tendrá que molestarse cada vez con este paso. La figura 4.2 muestra
+el organigrama de un departamento de ingeniería de producto de una gran empresa. Para
+un ingeniero del grupo de diseño de máquinas, formado por 40 personas, sería
+inapropiado enviar copias de los informes a los directores de grupo o de división, o a
+cualquiera de los otros directores, a menos que tuvieran una implicación específica en el
+trabajo. Esto forma parte de la cultura corporativa, y este tipo de cultura jerárquica existe
+en la mayoría de las organizaciones. En esencia, existe una norma no escrita
+
+60 / Guía del ingeniero para la redacción técnica
+
+Fig. 4.2 Organigrama típico
+
+no pasar por encima de su superior inmediato en ningún asunto sin su conocimiento [y
+aprobación].
+
+4.2 Ámbito de redacción
+Todo documento escrito tiene límites en cuanto a la profundidad y el alcance de la
+cobertura, y la definición de esos límites debe formar parte de la estrategia de redacción. Si
+está escribiendo sobre una investigación en la que se han realizado muchos estudios
+diferentes, un informe que incluya todo este trabajo puede ser más largo de lo que
+cualquiera querría leer. Para poner límites a lo que se incluye en un documento técnico
+hay que tener en cuenta los siguientes factores:
+
+•
+•
+•
+
+Número de ideas/experimentos/estudios/temas
+Profundidad de la escritura
+Nivel de detalle
+
+Estrategia de redacción
+61
+
+Dependiendo de la situación de redacción, puede haber otros factores a tener en
+cuenta a la hora de determinar el alcance de un documento. Sin embargo, la mayoría de
+los escritos técnicos requieren una definición del alcance en términos de número de
+temas, profundidad técnica y nivel de detalle. Un enunciado adecuado del alcance en una
+introducción podría ser como el siguiente:
+Este informe describe la aplicación del método de ensayo de abrasión en bucle para clasificar
+la resistencia a la abrasión de seis aceros de prueba diferentes. Son candidatos para
+herramientas de primera forma P35.
+
+Este tipo de declaración puede incluirse en las secciones de alcance o formato de la
+introducción. No es obligatorio comentar los detalles técnicos en la introducción de un
+informe si no es conveniente decírselo al lector en la introducción; el propio informe
+puede mostrarlo adecuadamente a los lectores. No obstante, debe tomar decisiones sobre
+el nivel de profundidad y detalle técnico, y escribir en consecuencia.
+
+Número de sujetos
+La mayoría de los trabajos que requieren documentación escrita implican múltiples
+tareas. Deben identificarse las tareas que deben abordarse en los informes. Por ejemplo,
+el estudio del fallo de una herramienta puede incluir análisis químicos, mediciones de la
+textura de la superficie, mediciones de la dureza y microscopía óptica de una sección
+transversal me- talográfica tomada de la pieza que ha fallado. Si el análisis químico de la
+pieza defectuosa indica que la herramienta se fabricó con el acero incorrecto, habrá que
+decidir si el informe de análisis de fallos debe incluir las pruebas realizadas (aunque no
+se haya identificado la causa raíz del fallo).
+Una situación similar ocurre con las ideas. Usted está redactando una propuesta para
+obtener financiación para un proyecto de uso de revestimientos en ejes para mejorar la
+vida útil de las juntas me- canicas. Realmente desea investigar los revestimientos por
+deposición física de vapor (PVD), puede aumentar sus posibilidades de obtener
+financiación si incluye los revestimientos por electrodeposición y los tratamientos
+térmicos de cementación en caja. Si los incluye, podrá demostrar que la solución PVD
+que propone es comparable a otros revestimientos más conocidos por los lectores.
+También puede mencionar los aspectos medioambientales negativos de la galvanoplastia
+y los tratamientos térmicos de baño salino. Así, el número de ideas incluidas pasa a
+formar parte de una estrategia de redacción. Lo mismo ocurre con el número de
+experimentos, o subproyectos, diseños e incluso pensamientos.
+
+Profundidad de la escritura
+Cuando un niño pregunta a su madre: "Mami, ¿de dónde vienen los bebés?", la
+respuesta puede ir desde una descripción biológica hasta "del hos- pital". En la fase de
+estrategia de la redacción técnica, también debe decidir la profundidad deseada de las
+discusiones técnicas. qué punto hay que ser técnico?
+
+62 / Guía del ingeniero para la redacción técnica
+
+¿Va a hacer un estudio bibliográfico sobre su tema, discutir trabajos anteriores y
+comparar teorías en su documento técnico? La necesidad de profundidad técnica suele
+depender de la complejidad o dificultad de un tema. Los problemas sencillos, si los hay,
+no requieren la profundidad técnica de un problema intrincado o sutil.
+Si tiene conocimientos limitados sobre el tema de su documento previsto, suele ser
+aconsejable no intentar tratarlo en profundidad. Diga que tiene conocimientos limitados
+sobre un tema, pero explique por qué es importante. Puede que no sea un experto en
+bombas microgear [o lo que sea], pero parece que no cumplen los requisitos de su
+proceso porque no tienen la capacidad de bombeo necesaria para satisfacer las necesidades
+del mismo. La mayor parte del documento puede abordar los hechos y las cifras del
+problema de su proceso. Usted es el experto en cómo debe el proceso. Un experto en un
+tema concreto puede profundizar mucho en él. Sin embargo, la profundidad de la
+cobertura debe estar directamente relacionada con el propósito y el objetivo del . En la
+medida de lo posible, hay que evitar el exceso de profundidad y los tecnicismos
+innecesarios. Si no es necesario, puede aburrir a los lectores y provocar una reacción
+negativa. Hay que decidir el nivel y la profundidad de la presentación técnica en función
+de la finalidad y el objetivo del documento.
+finalidad y objetivos.
+
+Nivel de detalle
+Al igual que la cuestión de la profundidad, una estrategia de redacción debe abordar el
+nivel de detalle que es necesario incluir. Si está escribiendo sobre una evaluación de
+cinco máquinas de moldeo diferentes que se está considerando comprar, puede incluir las
+cinco páginas de especificaciones de cada máquina. Luego puede escribir una comparación
+de cada elemento de las especificaciones, o puede enumerar las diferencias significativas y
+limitar la discusión a estas diferencias. Como se describe en capítulos posteriores, la
+concisión es un atributo deseable en la redacción técnica. Las descripciones detalladas de
+procesos, diseños, experimentos, etc. pueden alargar demasiado un documento. Por otro
+lado, las revistas de archivo requieren procedimientos de prueba que otros puedan repetir.
+En estos , es necesario incluir detalles suficientes para que el lector pueda repetir y
+comprobar los resultados de las pruebas. A la hora de decidir el nivel de detalle, suele ser
+mejor errar por el negativo.
+REGLA
+No aburra al lector.
+
+4.3 Finalidad y objetivo
+La mayoría de los documentos se escriben por una serie de motivos, y la definición de estos
+motivos es una parte esencial de la estrategia de redacción. Un informe sobre una inves-
+
+Estrategia de redacción
+63
+
+tigación se redacta para presentar los resultados de la investigación. Esta es la finalidad
+del informe. Sin embargo, el conjunto del trabajo fue patrocinado por la Fundación
+Nacional de la Ciencia (NSF) [o lo que sea] para encontrar una cura para el párpado
+caído. Este es el objetivo del trabajo. Todos los documentos tienen una finalidad y un
+objetivo, y éstos son diferentes.
+[Varios críticos de este libro tuvieron problemas con mi insistencia en el propósito y
+el objetivo como elementos de las introducciones. Decían que propósito y objetivo
+significan lo mismo. Busqué las definiciones de propósito y objetivo en cuatro
+diccionarios de diferente tamaño y antigüedad, y los cuatro incluían meta, intención,
+propósito y objetivo en la lista de sinónimos. Así que los críticos tenían razón. Los
+diccionarios y muchas personas utilizan estas palabras indistintamente, por lo tanto,
+necesitamos nuestras propias definiciones en la escritura técnica que discriminen entre
+propósito, (n) en la escritura técnica, la intención declarada del documento, y objetivo,
+(n) en la escritura técnica, el resultado declarado del conjunto de trabajo reportado en
+un documento].
+Una vez definidos el propósito y el objetivo en el contexto de la redacción técnica,
+veamos cómo encajan en la estrategia de redacción. El objetivo de la mayoría de los
+proyectos de ingeniería es aumentar los beneficios de la empresa. El objetivo de la
+mayoría de los estudios científicos es un hallazgo que añada valor al patrocinador o
+beneficie al mundo. Los objetivos son las razones a largo plazo para escribir. En la
+mayoría de los casos, el objetivo viene determinado por el patrocinador o la organización
+financiadora.
+El propósito suele determinar la estrategia. El propósito es más inmediato. Quieres
+que ocurra algo como resultado de tu documento escrito. Puede que quiera más
+financiación. Puede que quiera presentar el estado de un proyecto, preenviar los
+resultados finales o introducir un problema o un nuevo diseño.
+Independientemente de lo que se quiera conseguir escribiendo un documento, la
+definición del propósito es necesaria para establecer el alcance necesario. Como se
+muestra en el capítulo 6, "Criterios para una buena redacción técnica", el propósito y el
+objetivo pueden formar parte de la introducción de un documento. Además del propósito
+o propósitos declarados, también puede tener un propósito subliminal, como un aumento
+de sueldo por su buen trabajo o que su nombre sea más conocido. Estos propósitos
+subliminales deben permanecer así. No los dejes traslucir en tu escrito.
+
+4.4 Escribir a varios lectores
+La siguiente lista indica los tipos de lectores que pueden encontrarse en una situación
+de redacción técnica:
+Participantes activos
+
+•
+•
+
+Clientes
+Compañeros de equipo
+
+-
+
+Colegas
+Supervisor inmediato
+
+64 / Guía del ingeniero para la redacción técnica
+
+Interés general
+
+•
+•
+
+Gestión de clientes
+Su gestión
+
+-
+
+Clientes potenciales
+Biblioteca
+
+-
+
+Libro
+Revista especializada
+
+Público
+
+•
+•
+•
+
+Diario técnico
+Manual
+Presentación
+
+Esta categorización se basa en el nivel de interés previsto. Las personas interesadas en el
+tema de un documento tendrán probablemente un alto grado de interés. Es probable que
+estén familiarizadas con los términos técnicos que desea utilizar.
+La revista Chemical Engineering está escrita en jar- gón de ingeniería química. Los
+editores no definen lo que es un reactor o una columna de destilación. Utilizan verbos
+como catalizar, fundir e hidrogenar sin . Es una práctica aceptada. Es lo que quieren los
+lectores. Si todos los artículos se escribieran para no ingenieros químicos, serían el doble
+de largos debido a las definiciones y explicaciones, y los ingenieros químicos los
+encontrarían aburridos. Dejarían de suscribirse a la revista.
+Escribir un artículo técnico es similar. Si el trabajo se va a publicar en una revista de
+ingeniería mecánica, se permite utilizar libremente términos de ingeniería mecánica
+(campo de tensiones, frecuencia de resonancia, contacto hertziano, etc.) sin definirlos. La
+salvedad a esta regla es si el trabajo se va a publicar en una revista no especializada en su
+campo. Si un ingeniero mecánico publica un artículo en una revista general como
+Scientific American, tendrá que escribir a otro nivel. Esta no sólo la leen ingenieros
+mecánicos. Es probable que los lectores interesados deseen más detalles que los lectores
+de interés general. El nivel de profundidad técnica del escrito debe corresponderse con la
+formación de los lectores. En la tabla 4.1 se muestran los lectores y el nivel de redacción
+para una serie de tareas de redacción. Esta ilustración sugiere que los escritos técnicos
+para publicación deben redactarse a nivel de ingeniero o científico graduado, pero un
+informe técnico puede redactarse para la dirección de producción o incluso para un
+departamento de seguridad. En estos casos, es necesario examinar mentalmente a cada
+persona de la lista de distribución y calificar sus conocimientos sobre el tema.
+Cuadro 4.1
+
+Intención de lectura y niveles de escritura de varios documentos
+
+Documento
+
+Destinatarios
+
+Intención
+
+Periódico
+Revista Time
+Revista de ingeniería química
+Tesis doctoral
+Propuesta de investigación
+
+Todos los que lean
+Adultos
+Ingenieros químicos
+Tribunal de exámenes
+Revisores y administradores de fondos
+
+Informe técnico
+Currículum
+Documento para publicación
+
+Proveedores de fondos, departamento que solicita el trabajo
+Empresas con ofertas de empleo
+Investigadores sobre el terreno
+
+Beneficios para los accionistas
+Beneficios para la empresa
+Beneficios para la empresa
+Obtener el título
+Financiación de la
+investigación
+Resolver el problema
+Conseguir trabajo
+Compartir tecnología
+
+Informe de la prueba
+Instrucciones de montaje de la bicicleta
+
+Supervisor de clientes
+Compradores de todo el mundo
+
+Respuesta
+Montar la moto
+
+Nivel de escritura
+
+Bachillerato
+Graduado universitario
+Ingenieros químicos
+Revista técnica
+Revista técnica
+Nivel de lectura más bajo
+Bachillerato
+Graduado universitario en la
+especialidad
+Nivel de lectura más bajo
+Sin habilidades manuales
+
+Estrategia de redacción
+65
+
+Una vez hecho esto, escriba al nivel más bajo de la persona o personas que realmente
+necesitan entender y tomar medidas como resultado de la lectura del .
+A continuación se ilustran varias profundidades técnicas en la escritura:
+Nivel directivo
+Estaré de vacaciones la mayor parte de la próxima semana. Si surge alguna situación que
+requiera una acción por mi parte, por favor hablen con Barb. Ella se ocupará de todo en mi
+ausencia.
+Nivel de correspondencia
+Escribo esta carta para informar a su empresa de un componente defectuoso en su
+calentador de agua a gas AO 102. Después de sólo diez meses de servicio, la válvula de
+desagüe de plástico se rompió espontáneamente por la mitad, inundando mi lavadero y mi
+oficina. La avería se produjo. . .
+Nivel de informe técnico
+Una de las aplicaciones más importantes de los plásticos son los cojinetes lisos. Un
+plástico adecuado para este tipo de aplicación tendrá un bajo índice de desgaste. No debe
+desgastar el eje que pasa por el casquillo. Para clasificar los materiales para este tipo de ,
+se suelen utilizar dos ensayos de plásticos: el ensayo de la arandela de empuje y el ensayo
+del casquillo [3, 4]. Ambos ensayos requieren una superficie de contacto significativa del
+plástico con una contracara metálica, normalmente un acero de bajo contenido en carbono
+en recocido, ... .
+
+A continuación se ilustran las diferencias en los detalles de la escritura:
+Muchos detalles
+La prueba de fricción con sujetapapeles comienza colocando la muestra en el plano inclinado.
+Utilice guantes de goma y manipule las muestras de película sólo por los bordes de la
+hendidura. Evite respirar sobre la muestra, ya que puede tener una superficie hidrófila. Sujete la
+muestra con las pinzas de resorte previstas en el plano inclinado. Coloque el sujetapapeles
+sobre la superficie de ensayo a unos 5 cm del extremo articulado del plano inclinado.
+Levantar el plano inclinado con un movimiento lento y continuo hasta que el clip empiece a
+moverse. Detenga el movimiento vertical y bloquee el plano inclinado en el ángulo de
+ruptura. Leer el an- gulo del plano inclinado con una precisión de . . .
+Pocos detalles
+La prueba de fricción con sujetapapeles impone el extremo de un sujetapapeles ponderado a
+una muestra de película fijada a un plano inclinado. El plano inclinado se eleva para producir
+el deslizamiento del clip y la tangente del ángulo del plano inclinado en el momento de la
+rotura es el coeficiente de fricción.
+
+Ninguno de los dos estilos es incorrecto. El nivel de detalle, el número de temas y la
+profundidad técnica deben ajustarse al público al que se dirigen. Si público al que se
+dirige es predominantemente de interés general, el nivel de detalle debe ser bajo. Si se
+trata de un artículo para una revista, el nivel de detalle debe ajustarse al exigido por la
+revista. Como se explica en el capítulo 10, "Informe formal: redacción del cuerpo del
+informe", el nivel de detalle debe ser bajo.
+
+66 / Guía del ingeniero para la redacción técnica
+
+El trabajo realizado durante un estudio científico o técnico debe separarse con suficiente
+detalle para que otros puedan informar sobre él. La razón de ser de este enfoque es
+permitir la confirmación de nuevas teorías o modelos.
+El nivel de niebla puede variar en función de los lectores. Sin embargo, en realidad no
+es necesario escribir así en ningún nivel. El siguiente ejemplo de un informe de empresa
+lo demuestra.
+Formulario original
+El aumento de la exposición a los rayos ultravioleta (UV) creó una anisotropía superficial que se
+manifiesta en la reducción de las fuerzas de extracción de SFM y en los zarcillos lenticulares de
+la superficie. La superficie lenticular se ve reforzada por la eliminación selectiva de
+materiales cristalinos y amorfos durante el grabado oxidativo con plasma. El patrón
+lenticular se debe probablemente a la alineación de las cadenas moleculares en la operación
+de calado. Las esferulitas del tereftalato de polietileno se sitúan normalmente entre 3 y 7 µm,
+mientras que los zarcillos de la superficie eran órdenes de magnitud mayores que el
+tamaño típico de las esferulitas. De ahí la con- clusión de que no son el resultado de una
+cristalización orientada. . .
+Traducido
+La exposición de la lámina de poliéster a la radiación ultravioleta produce una degradación de la
+superficie caracterizada por crestas microscópicas alineadas con el eje longitudinal de la
+lámina. ...
+
+La persona que escribió el ejemplo original era un químico investigador, y las
+palabras y el estilo utilizados son apropiados para un público de colegas químicos. Sin
+embargo, el documento del que se extrajo fue enviado a una gran lista de distribución de
+interés general. El escritor puede haber querido impresionar a estos lectores de interés
+general, pero su reacción puede ser más bien: "¿De qué está hablando este imbécil?". El
+mensaje aquí es prestar atención al nivel de niebla. Evite palabras como
+"estereoespecificidad" y "autógeno" si el documento va a circular entre lectores internos
+que no entienden estos términos. No hay límite de niebla para las revistas técnicas, pero
+tenga en cuenta que un revisor de una revista u otro medio de dominio público puede no
+trabajar en su especialidad técnica. Podría rechazar su escrito por el nivel de niebla.
+REGLA
+Escriba de forma que todos los lectores a los que se dirige puedan entenderlo.
+
+Algunos lectores pueden no ser receptivos a su documento escrito por problemas de
+actitud. A un lector puede no gustarle usted, su departamento, el tema o incluso la
+lectura. Si es consciente de alguno de estos problemas de actitud, trate de solucionarlos
+en su escrito o en su lista de distribución. No envíe su a un lector que lo tirará a la
+papelera. Si te enfrentas a un prejuicio por parte de una persona o un departamento en
+particular, a veces puedes abordarlo en tu escrito. Si se sabe que un departamento
+concreto tiene prejuicios contra
+
+Estrategia de redacción
+67
+
+cobre berilio porque respirar partículas de esta aleación puede ser un peligro potencial para
+la salud, demuestre que ha realizado un estudio exhaustivo para abordar esta cuestión.
+Hacer frente a un prejuicio
+Tras realizar numerosas pruebas de laboratorio, hemos llegado a la conclusión de que el
+material óptimo para el pestillo del cassette 102 es el cobre de berilio, aleación CDA 190.
+Somos conscientes de los problemas de salud que plantea este material, por lo que hemos
+realizado pruebas de vida útil en 10 pestillos. Somos conscientes de los problemas de salud
+que plantea este material, por lo que realizamos pruebas de vida útil en 10 pestillos.
+Eliminamos todas las partículas del aire ambiente por encima del pestillo con un dispositivo de
+aspiración par- ticular durante la prueba, y utilizamos el mismo dispositivo en el casete para
+eliminar cualquier partícula que se pudiera haber generado al abrir y cerrar los pestillos.
+Enviamos el filtro del dispositivo de aspiración a un análisis químico (ICP) y se determinó que
+los niveles de partículas eran inferiores a 0,1 partes por billón, en comparación con las 2
+partes por millón permitidas por las normas de la EPA.
+Estas pruebas de partículas demostraron que el riesgo de generar partículas de cobre berilio en
+esta aplicación es nulo. Probamos los casetes a 10(7)ciclos y la vida de- signada es de sólo
+105ciclos. Basándonos en las pruebas de detección de laboratorio y en las pruebas de vida útil,
+recomendamos la conversión inmediata del muelle de cassette 102 a la aleación CDA 190.
+
+Sin estas pruebas y palabras adicionales en su documento, es posible que sus
+recomendaciones nunca se hubieran tomado en serio.
+Este es un ejemplo extremo de un problema con la actitud del lector, pero es probable
+encontrar problemas de actitud que podrían anular un mensaje. Intente anticiparse a los
+problemas de actitud y tratarlos en la fase de estrategia documental.
+
+Resumen
+Este capítulo pretende promover la definición de una estrategia de redacción para cada
+tarea de redacción técnica. Los elementos básicos de su estrategia deben ser:
+
+•
+•
+•
+
+Piense bien quién quiere que lea su documento
+Establecimiento del alcance del documento y de los límites del contenido (lo que se
+quiere cubrir)
+Establecimiento de la finalidad (intención inmediata) y el objetivo (resultado final)
+
+En la mayoría de los casos, hay que tomar decisiones sobre todo ello al mismo . Esto
+es realmente "ingeniería concurrente". Definir los lectores es la piedra angular de la
+estrategia de redacción. Si sólo quiere informar a su jefe del estado de los proyectos, él
+es el lector; escriba en consecuencia. Si escribe para conseguir financiación para un
+proyecto, el reto es mayor. Es posible que algunos lectores de la dirección no sepan nada
+de su especialidad técnica, por lo que es posible que tenga que incluir en su escrito alguna
+información tutorial para mostrar la importancia de la especialidad. Antes de escribir para
+establecer un descubrimiento como propiedad intelectual, hay que decidir cómo hacerlo.
+Si se decide por una patente, escriba un documento de patente en
+
+68 / Guía del ingeniero para la redacción técnica
+
+estilo jurídico. Si se opta por la divulgación pública, hay que escribir a los lectores de la
+revista. Los lectores a los que escriba deben ser coherentes con sus intenciones.
+La figura 4.3 es una lista de preguntas que deben responderse al planificar una
+estrategia de escritura. Esta lista puede servir de guía para planificar una tarea de
+escritura técnica.
+
+Fig. 4.3 Lista de control para la estrategia de redacción
+
+Estrategia de redacción
+69
+
+Términos importantes
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Lectores
+Estrategia
+Nivel de niebla
+Nivel de escritura
+Alcance
+Actitud
+Intención
+Propósito
+
+-
+
+Nivel de detalle
+Lista de distribución
+Objetivo
+Profundidad técnica
+Objetivo subliminal
+Organización
+Pares
+
+Para la práctica
+
+1. Vas a organizar una venta de garaje. Haz una lista de lectores para el anuncio.
+2. Usted es informático y acaba de escribir un programa para calcular las implicaciones
+presupuestarias de desechos de producción. ¿A quién enviaría el informe?
+
+3. ¿Cuál es la intención de un informe que muestra un rebasamiento presupuestario?
+4. Está creando un anuncio para un programa técnico de una organización de
+5.
+6.
+7.
+
+ingeniería. ¿Qué nivel de redacción debe utilizar?
+¿Cuál es la forma correcta de tratar los mensajes subliminales en un informe
+técnico?
+Usted es jefe de producción en la organización de la Fig. 4.2. Quiere redactar un
+informe sobre el estado del presupuesto. ¿A quién se lo envías (lectores)?
+Escribir un perfil de lector para la revista Sports Illustrated. Compártalo con otros
+miembros de la clase y elabore un perfil compuesto de las cinco características más
+importantes del lector.
+
+Para profundizar
+
+•
+•
+•
+•
+
+J. Allen, Writing in the Workplace, Allyn & Bacon, Boston, 1998
+P. Anderson, Technical Writing: A Reader-Centered Approach, 3ª ed., Harcourt,
+Orlando, 1995.
+C.T. Barosow, G.J. Alred y W.E. Oliu, Handbook of Technical Writ- ing, St. Martin's
+Press, Nueva York, 1993.
+C. Kostelnick y D.D. Roberts, Designing Visual Language: Strate- gies for
+Professional Communicators, Allyn & Bacon, Boston, 1997.
+
+
